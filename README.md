@@ -1,4 +1,3 @@
- [![MasterHead](https://www.canva.com/design/DAFqqq3IndU/-me_PSdScOM9jGR8Cz90GQ/edit)
 
 <h1 align="center">Hi 👋, I'm Bilal TORTUM</h1>
 <h3 align="center">I graduated from Hacettepe University Computer Education and Instructional Technologies Department. During my education period, I develop myself by making projects in the fields of Adobe applications, UNİTY and "web design". I In addition to these, my training on JAVA continues. I continue my English as a foreign language (B1.2) education.</h3>
